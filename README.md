@@ -25,3 +25,9 @@ User-friendly layout with interactive slicers and filters
 Clear data storytelling for better decision-making
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/109e5fe4-7649-4dbd-a115-a370cc5871ba)
+
+![Image](https://github.com/user-attachments/assets/f3fb7410-596a-4378-a4cc-8624535489e5)
+
+![Image](https://github.com/user-attachments/assets/bb6b3959-123e-4124-ac37-b2426eff8251)
